@@ -9,7 +9,7 @@ DB_PASSWORD=
 DB_NAME=
 ```
 
-После этого запустить файл main.go-isatty
+После этого запустить файл main.go
 ```
 go run main.go
 ```
